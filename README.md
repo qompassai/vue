@@ -7,6 +7,7 @@
 <h3> Qompass AI on Vue </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-vite)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/vue/total?style=flat-square)
   <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 </a>
